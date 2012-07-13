@@ -1,0 +1,20 @@
+{
+    "name": "2085020/api_pingdom",
+    "description": "pingdom api for php",
+    "require": {
+        "guzzle/guzzle": "v2.7.2"
+    },
+    "authors": [
+        {
+            "name": "Emagister",
+            "email": "jcruz@emagister.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Emagister":"src"
+        }
+    }
+
+
+}
